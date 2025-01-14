@@ -9,11 +9,11 @@ function getShippingCost(country) {
             price = 250;                     
             break;
         case "Australia":
-            country = "China";
+            country = "Australia";
             price = 170;                     
             break;
         case "Jamaica":
-            country = "China";
+            country = "Jamaica";
             price = 120;                       
             break;
         default:
